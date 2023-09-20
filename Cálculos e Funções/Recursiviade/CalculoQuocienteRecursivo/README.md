@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+ Esta pasta contém um código C++ que implementa uma função recursiva para calcular o quociente da divisão de dois números inteiros, x e y, usando a definição dada. A função MOD retorna 1 se a divisão for exata, 0 se x for menor que y, e usa recursão para calcular o quociente quando x é maior que y. Se a divisão não for possível, a função retorna -1. O programa principal lê os valores de x e y a partir da entrada do usuário e utiliza a função MOD para calcular e imprimir o quociente.

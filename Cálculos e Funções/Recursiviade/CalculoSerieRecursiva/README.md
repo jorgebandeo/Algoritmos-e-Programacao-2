@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+Esta pasta contém um código em linguagem C que implementa uma função recursiva para calcular o valor da série matemática S, conforme a fórmula fornecida. A série S é definida como a soma de termos de 2 + (5 / 2) + ... + ((1 + n^2) / n) para um valor positivo de n fornecido como parâmetro. O código inclui um programa principal que solicita ao usuário um valor válido de n e exibe o resultado da série correspondente.

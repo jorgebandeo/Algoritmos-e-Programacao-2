@@ -1,0 +1,5 @@
+Esta pasta contém um conjunto de arquivos de código C++ que implementam um programa que permite ao usuário digitar dois vetores de inteiros sem repetições, calcular a interseção entre eles e exibir o resultado. O código também verifica se um valor já foi registrado no vetor A antes de permitir sua inclusão no vetor B. O programa começa solicitando ao usuário o tamanho dos vetores e, em seguida, solicita a entrada dos elementos para cada vetor. Durante a entrada, ele verifica se um valor já foi registrado no vetor A e informa ao usuário caso seja encontrado um valor repetido. Após a entrada dos vetores, o programa calcula a interseção e exibe o resultado.
+
+O código usa ponteiros para manipular os vetores e aloca memória dinamicamente para armazenar o resultado da interseção. Além disso, ele limpa a tela do console após cada entrada de elemento para melhorar a legibilidade.
+
+O programa é uma ferramenta útil para encontrar valores comuns entre dois conjuntos de dados, garantindo que não haja repetições nos vetores de entrada.

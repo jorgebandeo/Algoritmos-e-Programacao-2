@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+Esta pasta contém um programa em C++ que permite aos usuários cadastrar informações pessoais, como nome e data de nascimento, para até 3 pessoas. O programa também permite a pesquisa de informações cadastradas com base em um código fornecido pelo usuário. O código utiliza estruturas, templates e funções para realizar essas operações de cadastro e pesquisa de forma interativa e amigável.

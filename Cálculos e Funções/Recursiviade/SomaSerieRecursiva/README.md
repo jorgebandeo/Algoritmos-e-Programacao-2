@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+Esta pasta contém um programa em C++ que implementa uma função recursiva chamada SomaSerie que calcula a soma dos valores no intervalo [i, j] com um incremento k. A função recebe três argumentos: i (o valor inicial), j (o valor final) e k (o incremento) e imprime na tela a soma dos valores dentro desse intervalo. O programa principal chama a função SomaSerie com valores de exemplo (2, 8, 2) e exibe o resultado na tela. Este código é um exemplo de como usar a recursão para calcular a soma de uma série de números com um determinado incremento.

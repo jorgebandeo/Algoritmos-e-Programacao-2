@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+ Este código implementa uma função recursiva chamada MOD que calcula o resto da divisão de dois números inteiros (x e y) de acordo com a definição dada. Se não for possível realizar o cálculo, a função retorna -1. O programa principal lê dois valores inteiros inseridos pelo usuário e utiliza a função MOD para calcular o resto da divisão de x por y, imprimindo o resultado computado.

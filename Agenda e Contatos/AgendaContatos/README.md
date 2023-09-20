@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+ Esta pasta contém um código C++ para gerenciar uma agenda de contatos pessoais e comerciais. O programa permite ao usuário escolher entre as duas opções e realizar diversas operações, como inserir novos itens, remover itens por ID, pesquisar itens por ID, ordenar a agenda por nome e mostrar todos os itens da agenda. O código utiliza templates para suportar diferentes tipos de dados e é configurado para trabalhar com duas agendas separadas, uma para contatos pessoais e outra para contatos comerciais.

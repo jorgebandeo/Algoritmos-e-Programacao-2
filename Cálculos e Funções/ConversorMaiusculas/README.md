@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+ Esta pasta contém um código-fonte em C++ que converte o conteúdo de um arquivo de texto de entrada ("origem.txt") em letras maiúsculas e salva o resultado em um arquivo de texto de saída ("destino.txt"). O código utiliza as bibliotecas <iostream>, <ctype.h>, <string> e <fstream> para realizar a leitura e escrita dos arquivos. É uma ferramenta simples, mas útil para transformar o texto em maiúsculas, tornando-o mais legível ou adequado para determinadas aplicações.

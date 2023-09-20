@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+Esta pasta contém um código em C++ que implementa o algoritmo de ordenação Bubble Sort. O programa permite ao usuário inserir um vetor de números inteiros, especificar se deseja ordená-lo em ordem crescente ou decrescente e, em seguida, realiza a ordenação usando o Bubble Sort. O código também inclui funções para leitura do vetor e exibição do vetor ordenado. É uma ferramenta útil para aprender e entender o funcionamento do algoritmo de ordenação Bubble Sort em C++.

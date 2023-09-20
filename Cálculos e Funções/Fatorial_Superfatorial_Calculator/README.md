@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+Esta pasta contém um código C++ que calcula o fatorial e o superfatorial de um número inteiro não negativo. O código utiliza funções para calcular o fatorial e o superfatorial e, em seguida, aloca dinamicamente uma matriz de 3x3 para armazenar e exibir os resultados dos cálculos. A pasta pode ser usada para armazenar e organizar programas relacionados a cálculos matemáticos em C++.
