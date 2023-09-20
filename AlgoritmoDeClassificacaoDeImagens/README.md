@@ -1,53 +1,11 @@
-# Algoritmo de Classificação de Imagens
+Esta pasta de código contém um programa em C++ que realiza as seguintes tarefas:
 
-## Descrição
+- Ordenação por Bubble Sort: A função bubblesort implementa o algoritmo Bubble Sort para ordenar um vetor de inteiros.
 
-Este é um algoritmo de classificação de imagens desenvolvido para categorizar imagens em diferentes classes com base em suas características visuais. O algoritmo utiliza técnicas de aprendizado de máquina e visão computacional para treinar um modelo capaz de reconhecer e atribuir etiquetas ou rótulos a imagens de entrada.
+- Intercalação de Vetores: A função inter recebe dois vetores ordenados e intercala-os em um novo vetor, mantendo a ordem crescente.
 
-## Funcionalidades
+- Verificação de Valores Repetidos: A função veri permite a entrada de valores em um vetor, verificando se eles já existem no vetor atual e solicitando uma nova entrada se houver duplicatas.
 
-- **Treinamento do Modelo:** O algoritmo permite treinar um modelo de classificação de imagens com um conjunto de dados rotulado.
+- Main Function: A função main é onde a interação com o usuário ocorre. Ela permite que o usuário insira o tamanho dos vetores, preencha os vetores A e B (com verificação de duplicatas), ordena esses vetores e, em seguida, os intercala em um novo vetor, que é exibido na saída.
 
-- **Classificação de Imagens:** Uma vez treinado, o modelo pode ser usado para classificar imagens de entrada em categorias previamente definidas.
-
-- **Avaliação de Desempenho:** O algoritmo oferece métricas para avaliar o desempenho do modelo, como acurácia, precisão, recall e F1-score.
-
-## Uso
-
-O algoritmo pode ser usado em uma variedade de aplicações, incluindo:
-
-- **Classificação de Produtos**: Classificar produtos em categorias com base em imagens, útil para sistemas de comércio eletrônico.
-
-- **Detecção de Anomalias**: Identificar anomalias em imagens, como defeitos de fabricação.
-
-- **Identificação de Objetos**: Reconhecer objetos em imagens para aplicações de automação industrial ou veículos autônomos.
-
-- **Classificação de Documentos**: Categorizar documentos digitalizados com base em seu conteúdo visual.
-
-## Requisitos
-
-Para usar este algoritmo, é necessário ter as seguintes bibliotecas e recursos:
-
-- Python 3.x
-- Bibliotecas de aprendizado de máquina, como TensorFlow, PyTorch ou scikit-learn.
-- Conjunto de dados rotulado para treinamento.
-
-## Exemplo de Uso
-
-Aqui está um exemplo de como usar o algoritmo de classificação de imagens:
-
-```python
-# Importar bibliotecas necessárias
-import algoritmo_de_classificacao_de_imagens
-
-# Carregar conjunto de dados
-dados_de_treinamento, dados_de_teste = carregar_dados("conjunto_de_dados/")
-
-# Treinar o modelo
-modelo = treinar_modelo(dados_de_treinamento)
-
-# Classificar uma imagem de exemplo
-imagem = carregar_imagem("imagem_de_exemplo.jpg")
-classe = modelo.classificar(imagem)
-
-print("Classe da imagem: ", classe)
+No geral, este código é um exemplo de como ordenar vetores e encontrar a interseção entre eles, garantindo que os valores não sejam duplicados.
