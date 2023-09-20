@@ -1,0 +1,2 @@
+# Algoritmos-e-Programacao-2
+Este código em C++ lê sete números digitados pelo usuário, armazena-os em um array dinâmico e, em seguida, separa os números em dois outros arrays dinâmicos, um para os números pares e outro para os números ímpares. Ele calcula a soma dos números pares e ímpares separadamente e exibe os resultados na tela. A pasta "SeparacaoParImpar" pode ser usada para organizar e armazenar este código e seus arquivos relacionados.
